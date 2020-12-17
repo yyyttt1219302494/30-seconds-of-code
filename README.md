@@ -1,3 +1,8 @@
+该项目讲的是满足你所有开发需求的简短代码段，里面都是些经常会用到而且是非常经典的代码，非常值得学习！
+比如 JavaScript 模块就分为了 All、Array、Browser、Date、Function、Math、Node、Object、String 方便学习的。
+其实上面讲到的事例里面还提供 api 和方法的讲解的，方便读者能看懂的，这里就不写出来了。
+
+还想学更多的 经典 js 代码片段，请看下面的仓库
 [![Logo](/logo.png)](https://30secondsofcode.org/js/p/1)
 
 # 30 seconds of code
